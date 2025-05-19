@@ -119,6 +119,7 @@ This project aims to build a robust machine learning pipeline to predict travel 
 
 - [EasyEnsembleClassifier Documentation](https://imbalanced-learn.org/stable/references/generated/imblearn.ensemble.EasyEnsembleClassifier.html)  
 - [AdaBoostClassifier Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html)
+- [EasyEnsembleClassifier Explanation Diagram](https://i.sstatic.net/W7UmY.png)
 
 ## 10. Contact
 
