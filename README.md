@@ -26,24 +26,18 @@ This project aims to build a robust machine learning pipeline to predict travel 
 
 ```
 ├── README.md          <- Project documentation and workflow summary.
-├── data
-│   ├── external       <- Third-party data sources.
-│   ├── interim        <- Intermediate, transformed data.
-│   ├── processed      <- Final datasets for modeling.
-│   └── raw            <- Original data dumps.
+├── data               <- Contains the raw dataset and data dictionary.
 │
 ├── models             <- Trained models and serialized artifacts.
 │
 ├── notebooks          <- Jupyter notebooks for exploration and modeling.
 │
-├── references         <- Data dictionaries and explanatory materials.
+├── references         <- Supplementary materials, potentially including detailed data dictionaries or external resource links.
 │
 ├── reports            <- Generated analysis and figures.
 │   └── figures        <- Visualizations for reporting.
 │
 ├── requirements.txt   <- Python dependencies for reproducibility.
-│
-└── src                <- Source code for data processing and modeling.
 ```
 
 ## 5. Workflow Summary
